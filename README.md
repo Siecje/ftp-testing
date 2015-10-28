@@ -7,4 +7,4 @@ pip install -r requirements.txt
 py.test test_ftp_fixture_one.py test_ftp_fixture_two.py
 ```
 
-Tests will not complete.
+Tests will not complete (return to prompt).
